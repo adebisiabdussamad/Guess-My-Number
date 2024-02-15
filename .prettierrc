@@ -2,3 +2,14 @@
   "singleQuote": true,
   "arrowParens": "avoid"
 }
+
+{
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false
+}
+"editor.insertSpaces": false,
+"editor.tabSize": 4,
+"editor.detectIndentation": false,
+
+"prettier.tabWidth": 4,
+"prettier.useTabs": true  // This made it finally work for me
